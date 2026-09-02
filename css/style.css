@@ -139,7 +139,7 @@ img{user-select:none}
 
 /* ---------- 数字统计 ---------- */
 .stats{position:relative;padding:110px 0;background:var(--ink-2);color:#fff;overflow:hidden}
-.stats::before{content:"";position:absolute;inset:0;background-image:url("../images/stair-1.jpg");background-size:cover;background-position:center;opacity:.14;filter:grayscale(.4)}
+.stats::before{content:"";position:absolute;inset:0;background-image:url("../images/stair-1.webp");background-size:cover;background-position:center;opacity:.14;filter:grayscale(.4)}
 .stats-grid{position:relative;display:grid;grid-template-columns:repeat(4,1fr);gap:30px;text-align:center}
 .stat b{font-family:var(--serif);font-size:clamp(40px,5vw,64px);color:var(--gold);font-weight:600;letter-spacing:.04em}
 .stat b i{font-style:normal;font-size:.5em;vertical-align:baseline}
@@ -166,7 +166,7 @@ img{user-select:none}
 
 /* ---------- CTA ---------- */
 .cta{position:relative;padding:130px 0;background:var(--ink);color:#fff;text-align:center;overflow:hidden}
-.cta::before{content:"";position:absolute;inset:0;background-image:url("../images/living-2.jpg");background-size:cover;background-position:center;opacity:.18}
+.cta::before{content:"";position:absolute;inset:0;background-image:url("../images/living-2.webp");background-size:cover;background-position:center;opacity:.18}
 .cta .container{position:relative}
 .cta h2{font-size:clamp(30px,4.6vw,52px);letter-spacing:.1em;margin-bottom:18px}
 .cta p{color:rgba(255,255,255,.78);margin-bottom:42px;letter-spacing:.05em}
